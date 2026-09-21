@@ -6,8 +6,8 @@
 **Program Studi:** S2 Ilmu Komputer  
 **Bahasa Pemrograman:** Python 3  
 **Nama:** Raoul Purba  
-**NIM:** ........................................  
-**Tanggal:** ....................................  
+**NIM:** 25/574540/PPA/07250  
+**Tanggal:** 22 September 2026  
 
 ---
 
